@@ -1,3 +1,4 @@
+
 # Mike Gehrke – Senior Mobile & Full Stack Developer
 
 Hi! I'm Mike, a passionate and results-driven developer with over 4 years of experience building mobile and full stack applications.  
@@ -32,3 +33,4 @@ You can download my full resume here:
 - 💻 GitHub: [github.com/mikegehrke](https://github.com/mikegehrke)
 
 Thanks for visiting!
+
