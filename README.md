@@ -20,10 +20,7 @@ I'm open to **remote opportunities** worldwide and enjoy working on impactful, u
 
 ## 📄 My Resume
 
-You can download my full resume here:
-
-**[Download Resume (DOCX)](Mike_Gehrke_Resume_EN.docx)**
-
+You can download my full resume [Download Resume (DOCX)](Mike_Gehrke_Resume_EN.docx)
 ---
 
 ## 🔗 Get in Touch
